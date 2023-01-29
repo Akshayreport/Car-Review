@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "Vaxuhall Astra",
+      "body": "It is a nice affordable car that is popular among young people.",
+      "author": "John",
+      "id": 1
+    },
+    {
+      "title": "Toyota Prius drive review",
+      "body": "I drove this car and I realised how glad I am for not buying this. But I do hate the rise in fuel prices",
+      "author": "Sam",
+      "id": 2
+    }
+  ]
+}
